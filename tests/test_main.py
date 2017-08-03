@@ -44,6 +44,5 @@ class TestMain(unittest.TestCase):
         self.assertTrue(reload.env.called)
 
 
-
 if __name__ == "__main__":
     unittest.main()
